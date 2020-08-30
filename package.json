@@ -1,6 +1,6 @@
 {
-  "name": "coronaapp",
-  "homepage": "https://karlkaru.github.io/corona-tracker",
+  "name": "corona-tracker",
+  "homepage": "https://karlkaru.github.io/corona-tracker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
